@@ -30,3 +30,5 @@ With Intel SGX support, Graphene can secure a critical application in a hardware
 - Paper: http://www.cs.unc.edu/~porter/pubs/tsai14graphene.pdf
 - Website: https://grapheneproject.io/
 
+## Support
+For support in using this library, please join the **#lib_sgx-experiments** Slack channel. If you’d like to follow along with any code changes to the library, please join the **#code_sgx-experiments** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
